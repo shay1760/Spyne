@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+a.active hr{
+    display: block;
+}
+
+.active{
+    background-color: #ffebf5;
+    border-color: #C586A5;
+}
